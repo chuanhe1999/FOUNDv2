@@ -1,1 +1,2 @@
-# MRQ-VAE
+## MRQVAE
+MRQVAE serves as the discretized compression module for FOUNDv2. Compared to RQVAE, we introduce specific codebooks tailored to different data sources to better capture the characteristics of each one.
